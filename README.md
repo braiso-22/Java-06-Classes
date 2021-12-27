@@ -248,7 +248,7 @@ Java course part 6
     (común para todos los alumnos). Además del constructor, los métodos set y get para cada
     atributo, tendrá los siguientes métodos:
   </li>
-  <ol>
+  <ul>
     <li>
       Método que nos dice si es mayor de edad o no.
     </li>
@@ -260,7 +260,7 @@ Java course part 6
       alumno pasado es exactamente igual en todos los campos (un duplicado). False en
       caso contrario.
     </li>
-  </ol>
+  </ul>
   Realiza a continuación un programa sencillo que use la clase definida.
   <li>
     Realiza un juego de la ruleta rusa para dos jugadores. La pistola tiene 6 huecos en la
@@ -273,7 +273,7 @@ Java course part 6
     Diseña una clase llamada Ruleta y un programa que la use, con la siguiente
 funcionalidad.
   </li>
-  <ol>
+  <ul>
     <li>
       El jugador puede apostar lo que quiera a par o a impar .
     </li>
@@ -283,7 +283,7 @@ funcionalidad.
     <li>
       Si sale 0 pierde tanto par como impar, y en caso contrario si el jugador acierta (par o impar) gana tanto como lo apostado.
     </li>
-  </ol>
+  </ul>
   Define los métodos necesarios para que los usuarios puedan apostar a par o impar. Hacer
   un programa en el que un jugador lleve 10.000 euros y juegue 10.000 veces 1 euro cada
   vez siempre apostando a par ¿Con cuánto dinero acaba? El resultado final puede ir entre 0
